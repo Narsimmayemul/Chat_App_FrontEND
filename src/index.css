@@ -6,6 +6,7 @@ body{
     background: linear-gradient(rgba(253, 252, 252, 0.149) , rgba(253, 253, 253, 0.2)), url("/HL.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    /* height: fit-content; */
 }
 
 ::-webkit-scrollbar {
